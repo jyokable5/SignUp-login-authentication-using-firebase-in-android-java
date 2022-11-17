@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "119152351096",
+    "firebase_url": "https://air-brush-39175-default-rtdb.firebaseio.com",
+    "project_id": "air-brush-39175",
+    "storage_bucket": "air-brush-39175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119152351096:android:72954e562d75b77a7a9a8d",
+        "android_client_info": {
+          "package_name": "com.example.instaone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119152351096-1be2k8iq1lr63hst93acrbq538tf1j4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElePO6eX7qQYYghT8SfUAWZw3ywvFDKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119152351096-1be2k8iq1lr63hst93acrbq538tf1j4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119152351096:android:bd950466c979bd207a9a8d",
+        "android_client_info": {
+          "package_name": "com.example.welcome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119152351096-1be2k8iq1lr63hst93acrbq538tf1j4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElePO6eX7qQYYghT8SfUAWZw3ywvFDKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119152351096-1be2k8iq1lr63hst93acrbq538tf1j4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
